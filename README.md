@@ -128,3 +128,11 @@ model.save('currency_detector.h5')
 ✅ **AI-Powered & Sensor-Based Currency Detection**  
 ✅ **Can be Used for ATM and Counterfeit Detection Machines**  
 ✅ **Low-Cost & DIY Version of Expensive Bank Scanners**  
+
+
+![image](https://github.com/user-attachments/assets/3d8bb652-19da-4d14-b14c-fd4112eb8a15)
+![image](https://github.com/user-attachments/assets/e6d20009-520f-4f77-b1d5-32610244a786)
+![image](https://github.com/user-attachments/assets/ad8a4a40-1bab-4f8a-ae11-b3e3306445a2)
+
+
+
